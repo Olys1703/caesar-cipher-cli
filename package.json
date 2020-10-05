@@ -1,0 +1,28 @@
+{
+  "name": "caesar-cipher-cli",
+  "version": "1.0.0",
+  "description": "project for rolling scopes school",
+  "main": "caesar-clipher-cli/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olys1703/caesar-cipher-cli.git"
+  },
+  "keywords": [
+    "caesar",
+    "cipher",
+    "cli"
+  ],
+  "author": "@Olys1703",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olys1703/caesar-cipher-cli/issues"
+  },
+  "homepage": "https://github.com/Olys1703/caesar-cipher-cli#readme",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "through2": "^4.0.2"
+  }
+}
